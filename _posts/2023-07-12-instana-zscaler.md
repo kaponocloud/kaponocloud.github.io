@@ -1,6 +1,6 @@
 ---
 title: Modify default Instana Agent Docker image to include Zscaler cert
-date: 20233-07-12 10:47:30 -0700
+date: 2023-07-12 10:47:30 -0700
 categories: [Docker,APM]
 tags: [docker,zscaler,cert,jvm,instana agent]
 ---
